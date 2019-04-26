@@ -1,0 +1,2 @@
+here are many directions I found during the period I learning Python,some are useful,but most of them may unuseful,I would send some useful files
+and projects to the python_workspace,if you want some useful projects, you can try to find it there
